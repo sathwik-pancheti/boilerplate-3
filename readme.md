@@ -103,7 +103,7 @@ The folders and files you see in this repositories is how it is expected to be i
 
 5. Add your new repository reference as remote
 
-     `git remote add origin https://gitlab.training.com/{{yourusername}}/assignment-solution-step3.git`
+     `git remote add origin https://gitlab.stackroute.in/{{yourusername}}/assignment-solution-step3.git`
 
      **Note: {{yourusername}} should be replaced by your username from gitlab**
 
